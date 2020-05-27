@@ -64,6 +64,8 @@ header {
     margin-bottom: 140px; */
     display: inline-block;
     margin-right: 56px;
+    width: 420px;
+    margin-bottom: 140px;
 }
 
 .art_li:nth-child(2n) {
@@ -71,10 +73,9 @@ header {
 }
 
 
-article {
-    width: 420px;
-    margin-bottom: 140px;
-}
+/* article {
+
+} */
 
 img {
     margin-bottom: 30px;
@@ -86,8 +87,13 @@ img {
     color: #b4ad9e;
 }
 
+footer {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
 button {
-    margin: 0 auto;
+    
     background: none;
     padding: 23px 35px;
     border: 1px solid #424040;
